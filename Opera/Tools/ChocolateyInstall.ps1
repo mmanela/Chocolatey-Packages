@@ -1,0 +1,1 @@
+Install-ChocolateyPackage 'opera' 'exe' '/silent /launchopera 0 /setdefaultbrowser 0' 'http://get3.opera.com/pub/opera/win/1202/int/Opera_1202_int_Setup.exe'
