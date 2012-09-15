@@ -18,7 +18,7 @@ For example, drives and memory are presented similar to a file and are shown as 
 
 Furthermore a lot of effort was put into making operations fast and efficient, instead of forcing you to use specialized functions for technical reasons or arbitrarily limiting file sizes. This includes a responsive interface and progress indicators for lengthy operations.</description>
     <summary>HxD is a carefully designed and fast hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.</summary>
-    <tags>hex editor file text</tags>
+    <tags>hex editor file text disk</tags>
   </metadata>
     <files>
     <file src="tools\chocolateyInstall.ps1" target="tools\chocolateyInstall.ps1" />
