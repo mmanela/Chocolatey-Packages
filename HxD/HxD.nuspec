@@ -5,7 +5,7 @@
     <authors>Maël Hörz</authors>
     <owners>Matthew Manela</owners>
     <projectUrl>http://mh-nexus.de/en/hxd/</projectUrl>
-    <iconUrl>https://github.com/mmanela/Chocolatey-Packages/raw/master/hxd/hxd.jpg</iconUrl>
+    <iconUrl>https://raw.github.com/mmanela/Chocolatey-Packages/master/HxD/hxd.jpg</iconUrl>
     <id>HxD</id>
     <title>HxD - Hex Editor and Disk Editor</title>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
