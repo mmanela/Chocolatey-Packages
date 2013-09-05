@@ -20,6 +20,6 @@ try {
 
 	Remove-Item $extractDir -Force -Recurse
 }	catch {
-	Write-ChocolateyFailure '__NAME__' $($_.Exception.Message)
+	Write-ChocolateyFailure $packageName $($_.Exception.Message)
 	throw 
 }
